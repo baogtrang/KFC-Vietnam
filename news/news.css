@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+div.intro {
+    background-color: white;
+    width: 60%;
+    font-size: 20px
+}
+
+h1.intro {
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
+
+.poster {
+    width: 100%;
+}

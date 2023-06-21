@@ -1,0 +1,73 @@
+/** {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+nav {
+    font-size: 20px;
+    padding: 11px 0px;
+}
+
+.KFC {
+    background-color: red;
+    color: white;
+    text-align: left;
+}
+
+#intro {
+    background-color: brown;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+.introKFC {
+    text-align: center;
+    font-size: 40px;
+}
+
+i {
+    color: black;
+}
+
+p {
+    text-align: justify;
+    font-size: 30px;
+}
+
+.pic1 {
+    width: 50%;
+}
+
+#dev {
+    background-color: brown;
+    color: white;
+}
+
+h1.dev {
+    text-align: center;
+    font-size: 40px;
+}
+
+ul.dev {
+    font-size: 25px;
+}
+
+.pic3 {
+    width: 50%;
+}
+
+.menu_title {
+    text-align: center;
+}
+
+th {
+    padding: 15px;
+}
